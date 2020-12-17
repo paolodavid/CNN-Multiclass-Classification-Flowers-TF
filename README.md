@@ -5,7 +5,7 @@ https://bit.ly/37tmp2B
 
 # Features
 - The CNN is built with Tensorflow v2.2
-- Model: VGG16
+- Model: VGG19
 - Epochs training: 20
 - Training/Validation accuracy: 80-85%
 - 5 Classes: daisy, dandelion, roses, sunflowers, tulips
