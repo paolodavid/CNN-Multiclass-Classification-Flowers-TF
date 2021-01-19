@@ -1,7 +1,7 @@
 # Convolutional Neural Network(CNN)🧠 for a multi-class classification to recognize between different flowers 🌸🌺🌻 categories
 
-# Link to test it
-https://bit.ly/37uJKAU
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vDvaTOiI82Q/0.jpg)](https://www.youtube.com/watch?v=vDvaTOiI82Q)
 
 # Features
 - The CNN is built with Tensorflow v2.2
